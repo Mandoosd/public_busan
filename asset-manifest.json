@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/public_busan/static/js/main.cacb7db4.js",
+    "main.js": "/public_busan/static/js/main.e06f549c.js",
     "index.html": "/public_busan/index.html",
-    "main.cacb7db4.js.map": "/public_busan/static/js/main.cacb7db4.js.map"
+    "main.e06f549c.js.map": "/public_busan/static/js/main.e06f549c.js.map"
   },
   "entrypoints": [
-    "static/js/main.cacb7db4.js"
+    "static/js/main.e06f549c.js"
   ]
 }
